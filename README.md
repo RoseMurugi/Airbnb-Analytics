@@ -1,29 +1,28 @@
 # Tweet-Analytics
 Team Members:
 
-Holly
-Patrick
-Rose
-Johanna
-
-Project Title:
-Geolocation Tweet
+• Holly
+• Johanna
+• Patrick
+• Rose
 
 
-Description:
+Project Title: AIRBNB CITIES
+
+Description: Analyze Airbnb data in four different cities 
 
 
 
-Data source: twitter.com
+Data source: http://tomslee.net/airbnb-data-collection-get-the-data
 
 
-5 initial research questions
 
 3-5 Initial  Research Questions:
-•    Topic(Question what do most tweet about)
-•    Account age of twitter users
-•    User density of Us cities
-•    Age density
+ 
+• Is there any correlation between price and rating?
+• Which cities are the most/least expensive?
+• Is there any correlation between minimum stay and price?
+• Is there a preferred room type (private room, entire house)?
 
 
 Techniques & tools:
